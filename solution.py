@@ -1,3 +1,5 @@
+# author - Andrey Sokorenko (a.sokorenko@gmail.com)
+
 
 import os
 import argparse
